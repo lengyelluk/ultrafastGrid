@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "Traditional Testing Suite V2">
+    <test name = "Traditional Tests V2" parallel = "methods">
+        <classes>
+            <class name = "tests.TraditionalTests" />
+        </classes>
+    </test>
+</suite>
