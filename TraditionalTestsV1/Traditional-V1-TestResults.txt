@@ -1,0 +1,190 @@
+Task: Task 1, Test Name: Filter icon is not displayed on laptop, Class: ti-filter, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Filter icon is displayed on tablet/mobile, Class: ti-filter, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Filter icon is displayed on tablet/mobile, Class: ti-filter, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Filter icon text is not displayed on laptop/mobile, DOM Id: SPAN____208, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Filter icon text is displayed on tablet, DOM Id: SPAN____208, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Filter icon text is displayed on tablet, DOM Id: SPAN____208, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Add to favorite icon is not displayed on tablet/mobile, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Add to favorite icon is displayed on laptop, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Add to favorite icon is not displayed on tablet/mobile, DOM Id: A__wishlist__52, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: View grid option is not displayed on tablet/mobile, DOM Id: I__tiviewgrid__202, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: View grid option is not displayed on tablet/mobile, DOM Id: I__tiviewgrid__202, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: View grid option is displayed on laptop, DOM Id: I__tiviewgrid__202, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: View list option is not displayed on tablet/mobile, DOM Id: I__tiviewlist__204, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: View list option is not displayed on tablet/mobile, DOM Id: I__tiviewlist__204, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: View list option is displayed on laptop, DOM Id: I__tiviewlist__204, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__tiheart__225, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__tiheart__225, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__ticontrols__229, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed after hovering on laptop, DOM Id: I__tiheart__225, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__ticontrols__229, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Filter icon is displayed on tablet/mobile, Class: ti-filter, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed after hovering on laptop, DOM Id: I__ticontrols__229, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__tishopping__233, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__tishopping__233, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Search bar is displayed on laptop/tablet, DOM Id: INPUTtext____42, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed after hovering on laptop, DOM Id: I__tishopping__233, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Filter icon text is displayed on tablet, DOM Id: SPAN____208, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Search bar is displayed on laptop/tablet, DOM Id: INPUTtext____42, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Search icon in search bar is displayed on laptop/tablet, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Search bar is displayed on laptop/tablet, DOM Id: INPUTtext____42, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Search icon in search bar is displayed on laptop/tablet, DOM Id: I__headericon__44, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Add to favorite icon is not displayed on tablet/mobile, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Number of items in cart icon is displayed on laptop/tablet, DOM Id: STRONG____50, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Search icon in search bar is displayed on laptop/tablet, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Number of items in cart icon is displayed on laptop/tablet, DOM Id: STRONG____50, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: View grid option is not displayed on tablet/mobile, DOM Id: I__tiviewgrid__202, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Number of items in cart icon is displayed on laptop/tablet, DOM Id: STRONG____50, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: View list option is not displayed on tablet/mobile, DOM Id: I__tiviewlist__204, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__tiheart__225, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__ticontrols__229, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__tishopping__233, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Search bar is displayed on laptop/tablet, DOM Id: INPUTtext____42, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Search icon in search bar is displayed on laptop/tablet, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Number of items in cart icon is displayed on laptop/tablet, DOM Id: STRONG____50, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 1, Test Name: Filter icon is not displayed on laptop, Class: ti-filter, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Filter icon text is not displayed on laptop/mobile, DOM Id: SPAN____208, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Add to favorite icon is displayed on laptop, DOM Id: A__wishlist__52, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: View grid option is displayed on laptop, DOM Id: I__tiviewgrid__202, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: View list option is displayed on laptop, DOM Id: I__tiviewlist__204, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed after hovering on laptop, DOM Id: I__tiheart__225, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed after hovering on laptop, DOM Id: I__ticontrols__229, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed after hovering on laptop, DOM Id: I__tishopping__233, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Search bar is displayed on laptop/tablet, DOM Id: INPUTtext____42, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Search icon in search bar is displayed on laptop/tablet, DOM Id: I__headericon__44, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Number of items in cart icon is displayed on laptop/tablet, DOM Id: STRONG____50, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Filter icon is not displayed on laptop, Class: ti-filter, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Filter icon text is not displayed on laptop/mobile, DOM Id: SPAN____208, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Add to favorite icon is displayed on laptop, DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: View grid option is displayed on laptop, DOM Id: I__tiviewgrid__202, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: View list option is displayed on laptop, DOM Id: I__tiviewlist__204, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed after hovering on laptop, DOM Id: I__tiheart__225, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed after hovering on laptop, DOM Id: I__ticontrols__229, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed after hovering on laptop, DOM Id: I__tishopping__233, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Search bar is displayed on laptop/tablet, DOM Id: INPUTtext____42, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Search icon in search bar is displayed on laptop/tablet, DOM Id: I__headericon__44, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Filter icon is displayed on tablet/mobile, Class: ti-filter, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 1, Test Name: Number of items in cart icon is displayed on laptop/tablet, DOM Id: STRONG____50, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 1, Test Name: Filter icon text is not displayed on laptop/mobile, DOM Id: SPAN____208, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 1, Test Name: Add to favorite icon is not displayed on tablet/mobile, DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 1, Test Name: View grid option is not displayed on tablet/mobile, DOM Id: I__tiviewgrid__202, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 1, Test Name: View list option is not displayed on tablet/mobile, DOM Id: I__tiviewlist__204, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__tiheart__225, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__ticontrols__229, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 1, Test Name: Tooltips under items are displayed on tablet/mobile, DOM Id: I__tishopping__233, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 1, Test Name: Search bar is not displayed on mobile, DOM Id: INPUTtext____42, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 1, Test Name: Search icon in search bar is not displayed on mobile, DOM Id: I__headericon__44, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 1, Test Name: Number of items in cart icon is not displayed on mobile, DOM Id: STRONG____50, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 1, Test Name: Quick links menu is collapsed on mobile, DOM Id: H3____421, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 2, Test Name: Check that expected number of black shoes is displayed, Expected number: 2, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air x Night, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air 720, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air 720, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air 720, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that expected number of black shoes is displayed, Expected number: 2, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air x Night, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air 720, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air 720, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air 720, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 2, Test Name: Check that expected number of black shoes is displayed, Expected number: 2, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air x Night, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air 720, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air 720, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air 720, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that expected number of black shoes is displayed, Expected number: 2, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air x Night, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air 720, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air 720, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air 720, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that expected number of black shoes is displayed, Expected number: 2, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air x Night, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air 720, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air 720, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air 720, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that expected number of black shoes is displayed, Expected number: 2, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air x Night, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air 720, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air 720, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air 720, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 2, Test Name: Check that expected number of black shoes is displayed, Expected number: 2, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air x Night, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air x Night, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that name of the captured shoes is the same as image alt attribute, Captured value: Appli Air 720, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that captured name of the shoes is the expected one, Captured value: Appli Air 720, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 2, Test Name: Check that image of the shoes is the expected one, Captured value: Appli Air 720, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Sku number is displayed, DOM Id: SMALL____84, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: New price has the expected value, DOM Id: new_price, Expected value: $33.00, Captured value: $33.00, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check the old price is strikethrough, DOM Id: old_price, Expected value: line-through, Captured value: line-through solid rgb(153, 153, 153), Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check the old price is grayed out, DOM Id: old_price, Expected value: rgb(153, 153, 153), Captured value: line-through solid rgb(153, 153, 153), Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Sku number is displayed, DOM Id: SMALL____84, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 3, Test Name: Default shoes size has the expected value, DOM Id: DIV__customsele__92, Expected value: Small (S), Captured value: Small (S), Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: New price has the expected value, DOM Id: new_price, Expected value: $33.00, Captured value: $33.00, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 3, Test Name: Check the old price is strikethrough, DOM Id: old_price, Expected value: line-through, Captured value: line-through solid rgb(153, 153, 153), Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 3, Test Name: Check profile icon does not overlap wishlist icon, First DOM Id: A__accesslink__56, Second DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check the old price is grayed out, DOM Id: old_price, Expected value: rgb(153, 153, 153), Captured value: line-through solid rgb(153, 153, 153), Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 3, Test Name: Sku number is displayed, DOM Id: SMALL____84, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Sku number is displayed, DOM Id: SMALL____84, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: New price has the expected value, DOM Id: new_price, Expected value: $33.00, Captured value: $33.00, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Default shoes size has the expected value, DOM Id: DIV__customsele__92, Expected value: Small (S), Captured value: Small (S), Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 3, Test Name: New price has the expected value, DOM Id: new_price, Expected value: $33.00, Captured value: $33.00, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check wishlist icon does not overlap cart icon, First DOM Id: A__wishlist__52, Second DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check the old price is strikethrough, DOM Id: old_price, Expected value: line-through, Captured value: line-through rgb(153, 153, 153), Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check the old price is strikethrough, DOM Id: old_price, Expected value: line-through, Captured value: line-through solid rgb(153, 153, 153), Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check profile icon does not overlap wishlist icon, First DOM Id: A__accesslink__56, Second DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 3, Test Name: Check the old price is grayed out, DOM Id: old_price, Expected value: rgb(153, 153, 153), Captured value: line-through rgb(153, 153, 153), Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check the old price is grayed out, DOM Id: old_price, Expected value: rgb(153, 153, 153), Captured value: line-through solid rgb(153, 153, 153), Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check review stars do not overlap with review text rating, First DOM Id: I__iconstar__81, Second DOM Id: EM____82, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Default shoes size has the expected value, DOM Id: DIV__customsele__92, Expected value: Small (S), Captured value: Small (S), Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Default shoes size has the expected value, DOM Id: DIV__customsele__92, Expected value: Small (S), Captured value: Small (S), Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check wishlist icon does not overlap cart icon, First DOM Id: A__wishlist__52, Second DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 3, Test Name: Check add to cart button do not overlap with quantity box, First DOM Id: A__btn__114, Second DOM Id: DIV__numbersrow__102, Browser: Chrome, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check profile icon does not overlap wishlist icon, First DOM Id: A__accesslink__56, Second DOM Id: A__wishlist__52, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check profile icon does not overlap wishlist icon, First DOM Id: A__accesslink__56, Second DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check review stars do not overlap with review text rating, First DOM Id: I__iconstar__81, Second DOM Id: EM____82, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 3, Test Name: Check wishlist icon does not overlap cart icon, First DOM Id: A__wishlist__52, Second DOM Id: A__cartbt__49, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check wishlist icon does not overlap cart icon, First DOM Id: A__wishlist__52, Second DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check add to cart button do not overlap with quantity box, First DOM Id: A__btn__114, Second DOM Id: DIV__numbersrow__102, Browser: Chrome, Viewport: 500 X 700, Device: Mobile, Status: Pass
+Task: Task 3, Test Name: Check review stars do not overlap with review text rating, First DOM Id: I__iconstar__81, Second DOM Id: EM____82, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check review stars do not overlap with review text rating, First DOM Id: I__iconstar__81, Second DOM Id: EM____82, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check add to cart button do not overlap with quantity box, First DOM Id: A__btn__114, Second DOM Id: DIV__numbersrow__102, Browser: Firefox, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check add to cart button do not overlap with quantity box, First DOM Id: A__btn__114, Second DOM Id: DIV__numbersrow__102, Browser: Edge, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Sku number is displayed, DOM Id: SMALL____84, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: New price has the expected value, DOM Id: new_price, Expected value: $33.00, Captured value: $33.00, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check the old price is strikethrough, DOM Id: old_price, Expected value: line-through, Captured value: line-through rgb(153, 153, 153), Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Sku number is displayed, DOM Id: SMALL____84, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check the old price is grayed out, DOM Id: old_price, Expected value: rgb(153, 153, 153), Captured value: line-through rgb(153, 153, 153), Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: New price has the expected value, DOM Id: new_price, Expected value: $33.00, Captured value: $33.00, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Default shoes size has the expected value, DOM Id: DIV__customsele__92, Expected value: Small (S), Captured value: Small (S), Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check the old price is strikethrough, DOM Id: old_price, Expected value: line-through, Captured value: line-through solid rgb(153, 153, 153), Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check the old price is grayed out, DOM Id: old_price, Expected value: rgb(153, 153, 153), Captured value: line-through solid rgb(153, 153, 153), Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check profile icon does not overlap wishlist icon, First DOM Id: A__accesslink__56, Second DOM Id: A__wishlist__52, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Default shoes size has the expected value, DOM Id: DIV__customsele__92, Expected value: Small (S), Captured value: Small (S), Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Sku number is displayed, DOM Id: SMALL____84, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check wishlist icon does not overlap cart icon, First DOM Id: A__wishlist__52, Second DOM Id: A__cartbt__49, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: New price has the expected value, DOM Id: new_price, Expected value: $33.00, Captured value: $33.00, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check profile icon does not overlap wishlist icon, First DOM Id: A__accesslink__56, Second DOM Id: A__wishlist__52, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check the old price is strikethrough, DOM Id: old_price, Expected value: line-through, Captured value: line-through solid rgb(153, 153, 153), Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check review stars do not overlap with review text rating, First DOM Id: I__iconstar__81, Second DOM Id: EM____82, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check the old price is grayed out, DOM Id: old_price, Expected value: rgb(153, 153, 153), Captured value: line-through solid rgb(153, 153, 153), Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check wishlist icon does not overlap cart icon, First DOM Id: A__wishlist__52, Second DOM Id: A__cartbt__49, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Default shoes size has the expected value, DOM Id: DIV__customsele__92, Expected value: Small (S), Captured value: Small (S), Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check add to cart button do not overlap with quantity box, First DOM Id: A__btn__114, Second DOM Id: DIV__numbersrow__102, Browser: Firefox, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check profile icon does not overlap wishlist icon, First DOM Id: A__accesslink__56, Second DOM Id: A__wishlist__52, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check review stars do not overlap with review text rating, First DOM Id: I__iconstar__81, Second DOM Id: EM____82, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check wishlist icon does not overlap cart icon, First DOM Id: A__wishlist__52, Second DOM Id: A__cartbt__49, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check add to cart button do not overlap with quantity box, First DOM Id: A__btn__114, Second DOM Id: DIV__numbersrow__102, Browser: Chrome, Viewport: 800 X 700, Device: Tablet, Status: Pass
+Task: Task 3, Test Name: Check review stars do not overlap with review text rating, First DOM Id: I__iconstar__81, Second DOM Id: EM____82, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
+Task: Task 3, Test Name: Check add to cart button do not overlap with quantity box, First DOM Id: A__btn__114, Second DOM Id: DIV__numbersrow__102, Browser: Edge, Viewport: 1200 X 700, Device: Laptop, Status: Pass
