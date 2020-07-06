@@ -36,22 +36,6 @@ public class AssertActions {
 
     public void softAssertTrue(boolean result) {
         TestReporter testReporter = new TestReporter();
-        //do I need it?
-        //testReporter.hackathonReporter();
         assertions.assertTrue(result);
     }
-
-    public void collectTestResults(String task, String testName, String domId, String browser, int width,
-                                   String deviceName, boolean comparisonResult) {
-        try(BufferedWriter writer = new BufferedWriter(new FileWriter("Traditional-V1-TestResults.txt", true))) {
-            String result = "Task: " + task + ", Test Name: " + testName + ", DOM Id: " + domId + ", Browser: " + browser
-                    + ", Viewport: " + width + "X700, Device: " + deviceName + ", Status: " + (comparisonResult ? "Pass" : "Fail");
-            writer.write(result);
-            writer.newLine();
-        } catch (Exception e) {
-            System.out.println("Error writing to report");
-            e.printStackTrace();
-        }
-    }
-
 }
