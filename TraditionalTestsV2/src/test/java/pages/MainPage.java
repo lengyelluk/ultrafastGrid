@@ -459,11 +459,12 @@ public class MainPage {
         //wait until the first black shoe can be clicked
         WebElement firstItem = items.get(0);
         wait.until(ExpectedConditions.elementToBeClickable(firstItem));
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        //scroll to the first item
+        js.executeScript("arguments[0].scrollIntoView(true);", firstItem);
         firstItem.click();
         ProductDetailsPage productDetailPage = new ProductDetailsPage(driver);
         PageFactory.initElements(driver, productDetailPage);
-        //to make sure that ProductDetailsPage was loaded
-        wait.until(ExpectedConditions.visibilityOf(logo));
         //check if url of Product Detail Page is correct one - skipped
         return productDetailPage;
     }

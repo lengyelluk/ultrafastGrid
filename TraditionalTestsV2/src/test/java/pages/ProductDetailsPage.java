@@ -72,6 +72,9 @@ public class ProductDetailsPage {
     @FindBy(id = "DIV__numbersrow__102")
     private WebElement quantityBox;
 
+    @FindBy(id = "shoe_img")
+    private WebElement mainShoeImage;
+
     /**
      * used to check if two specified elements are overlapping each other. In other words if they at least share the same
      * point in horizontal or vertical axis.
@@ -235,5 +238,10 @@ public class ProductDetailsPage {
     public boolean checkAddToCarButtonAndQuantityBoxNotOverlapping(BrowserType browserType, DeviceType deviceType) {
         return checkOverlappingOfIcons("Task 3", "Check add to cart button do not overlap with quantity box",
                 addToCartButton, quantityBox, browserType, deviceType);
+    }
+
+    public boolean checkIsImageDisplayed(BrowserType browserType, DeviceType deviceType) {
+        return checkCssAttribute("Task 3", "Check main product image is displayed", mainShoeImage,
+                "background-image", "jpg", browserType, deviceType);
     }
 }

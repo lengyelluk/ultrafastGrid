@@ -103,6 +103,9 @@ public class TraditionalTests extends BaseTest {
         //only tablet
         boolean areAddToCartButtonAndQuantityBoxNotOverlapping = productDetailsPage.checkAddToCarButtonAndQuantityBoxNotOverlapping(browser, device);
         assertActions.softAssertTrue(areAddToCartButtonAndQuantityBoxNotOverlapping);
+        //check if image is displayed - only firefox
+        boolean isProductImageDisplayed = productDetailsPage.checkIsImageDisplayed(browser, device);
+        assertActions.softAssertTrue(isProductImageDisplayed);
 
         assertActions.softAssertAll();
     }
