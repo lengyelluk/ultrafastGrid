@@ -1,6 +1,7 @@
 package tests;
 
 import com.applitools.eyes.BatchInfo;
+import com.applitools.eyes.TestResultContainer;
 import com.applitools.eyes.TestResultsSummary;
 import com.applitools.eyes.selenium.BrowserType;
 import com.applitools.eyes.selenium.Configuration;
@@ -13,11 +14,9 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.ITestContext;
 import org.testng.ITestResult;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeSuite;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.DataProvider;
+import org.testng.annotations.*;
 
 import java.lang.reflect.Method;
 import java.util.List;
@@ -25,14 +24,18 @@ import java.util.Set;
 
 public class TestBase {
 
+    //change API KEY for your keys
+    protected final String API_KEY = "lOAhnlAHAEOJW110z64rNtKcbCACeE110pAWrbS9TNUbELs110";
     protected Configuration config;
     protected WebDriver webDriver;
     protected VisualGridRunner runner;
+    protected Eyes eyes;
 
     @BeforeSuite
     public void setUpConfiguration() {
+        runner = new VisualGridRunner(10);
         config = new Configuration();
-        config.setApiKey("1dQ54JBEoYe10842EP5MHH102w8456LODkkByU101mzWBv4Wo110");
+        config.setApiKey(API_KEY);
         config.addBrowser(1200, 700, BrowserType.CHROME);
         config.addBrowser(1200, 700, BrowserType.FIREFOX);
         config.addBrowser(1200, 700, BrowserType.EDGE_CHROMIUM);
@@ -40,15 +43,8 @@ public class TestBase {
         config.addBrowser(768, 700, BrowserType.FIREFOX);
         config.addBrowser(768, 700, BrowserType.EDGE_CHROMIUM);
         config.addDeviceEmulation(DeviceName.iPhone_X, ScreenOrientation.PORTRAIT);
-        config.setBatch(new BatchInfo("UFG Hackathon 3"));
-
+        config.setBatch(new BatchInfo("UFG Hackathon"));
         WebDriverManager.chromedriver().setup();
-    }
-
-    protected VisualGridRunner createGrid() {
-        runner = new VisualGridRunner(10);
-        return runner;
-
     }
 
     protected WebDriver createDriver() {
@@ -56,16 +52,24 @@ public class TestBase {
         return webDriver;
     }
 
-    /**
-     * Method that gets invoked after test.
-     * Dumps browser log and
-     * Closes the browser
-     */
+
     @AfterMethod
-    public void tearDown(ITestResult result) throws Exception {
+    public void afterEachTest(ITestResult result) {
+        boolean testFailed = result.getStatus() == ITestResult.FAILURE;
+        if (!testFailed) {
+            eyes.closeAsync();
+        } else {
+            eyes.abortAsync();
+        }
         webDriver.quit();
-        TestResultsSummary testResults = runner.getAllTestResults(false);
-        System.out.println(testResults);
     }
 
+    @AfterSuite
+    public void afterTestSuite(ITestContext testContext) {
+        //Wait until the test results are available and retrieve them
+        TestResultsSummary allTestResults = runner.getAllTestResults(false);
+        for (TestResultContainer result : allTestResults) {
+            System.out.println(result);
+        }
+    }
 }
