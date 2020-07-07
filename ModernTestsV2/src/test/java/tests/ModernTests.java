@@ -3,15 +3,11 @@ package tests;
 import com.applitools.eyes.RectangleSize;
 import com.applitools.eyes.selenium.Eyes;
 import com.applitools.eyes.selenium.fluent.Target;
-import com.applitools.eyes.visualgrid.services.VisualGridRunner;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 import pages.MainPage;
 import pages.Navigation;
 import pages.ProductDetailsPage;
-
-import java.lang.reflect.Method;
-import java.util.List;
 
 public class ModernTests extends TestBase {
 

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ModernTestsV1/ModernTestsV1.iml" filepath="$PROJECT_DIR$/ModernTestsV1/ModernTestsV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModernTestsV2/ModernTestsV2.iml" filepath="$PROJECT_DIR$/ModernTestsV2/ModernTestsV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/TraditionalTestsV1/TraditionalTestsV1.iml" filepath="$PROJECT_DIR$/TraditionalTestsV1/TraditionalTestsV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/TraditionalTestsV2/TraditionalTestsV2.iml" filepath="$PROJECT_DIR$/TraditionalTestsV2/TraditionalTestsV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ultraFastGridHackathon.iml" filepath="$PROJECT_DIR$/.idea/ultraFastGridHackathon.iml" />

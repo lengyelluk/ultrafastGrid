@@ -11,6 +11,8 @@
     <modules>
         <module>TraditionalTestsV1</module>
         <module>TraditionalTestsV2</module>
+        <module>ModernTestsV1</module>
+        <module>ModernTestsV2</module>
     </modules>
 
     <dependencies>

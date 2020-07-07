@@ -7,13 +7,14 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
 import java.util.List;
 
 public class MainPage {
 
     private WebDriver driver;
     private WebDriverWait wait;
-    public final String url = "https://demo.applitools.com/gridHackathonV1.html";
+    public final String url = "https://demo.applitools.com/gridHackathonV2.html";
 
 
     @FindBy(id = "product_grid")
