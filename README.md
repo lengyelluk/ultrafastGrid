@@ -1,5 +1,5 @@
-# ultrafastGrid
-This is an attempt to solve Applitools Cross Browser Testing Hackathon.
+# Ultrafast Grid Applitools Cross Browser Testing Hackathon
+This is an attempt to solve Applitools Cross Browser Testing Hackathon. Thank you for fun!
 The project consists of four Maven projects that were created as separate modules in Intellij IDEA. Each module has a separate POM file and can be executed separately.
 Instructions are different based on type of the project.
 
